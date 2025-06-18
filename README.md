@@ -24,3 +24,6 @@ We apply enterprise (SAP-level) best practices, transparent pricing, and thoroug
 - Email: Official email id coming soon.
 - Book a call: [Calendly](https://calendly.com/cheesecaketechnologies)
 - Website: Kindly have patience till we renew our website.
+
+## A Kind Note
+Sample deliverables will be available soon. Please contact us if you would like a preview or a custom example.
