@@ -2,7 +2,7 @@
 
 Welcome to our transparent service catalog and technical portfolio.
 
-Here you’ll find:
+Here you will find:
 - Detailed descriptions of each service we offer
 - Sample deliverables (docs, diagrams, guides)
 - Our process and quality standards
@@ -21,6 +21,6 @@ We apply enterprise (SAP-level) best practices, transparent pricing, and thoroug
 
 ## Contact
 
-- Email: Official email coming soon.
-- Book a call: [https://calendly.com/cheesecaketechnologies](https://calendly.com/cheesecaketechnologies)
+- Email: Official email id coming soon.
+- Book a call: [Calendly](https://calendly.com/cheesecaketechnologies)
 - Website: Kindly have patience till we renew our website.
