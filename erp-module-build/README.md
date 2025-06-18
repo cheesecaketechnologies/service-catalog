@@ -20,7 +20,7 @@ Modular, scalable ERP components for growing businesses.
 
 ## Process
 
-1. Needs analysis
+1. Need analysis
 2. Module design and approval
 3. Implementation & integration
 4. Documentation & training materials
